@@ -1,0 +1,4 @@
+booking_limit_type	description
+minutes	Booking limit in minutes
+hours	Booking limit in hours
+days	Booking limit in days
